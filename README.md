@@ -2,7 +2,7 @@
 Repositorio que servirá para la materia de Estructura de Datos 
 
 
-~ ~ ~Explicación del Código Python:~ ~ ~
+*Explicación del Código Python:*
 
 1. ingresar_datos():
  
@@ -33,7 +33,7 @@ Repositorio que servirá para la materia de Estructura de Datos
 •Llama a las funciones correspondientes según la opción seleccionada.
 
 
-~ ~ ~Explicación del Código Java:~ ~ ~
+*Explicación del Código Java:*
 
 1. main():
  
