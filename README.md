@@ -33,10 +33,6 @@ Repositorio que servirá para la materia de Estructura de Datos
 •Llama a las funciones correspondientes según la opción seleccionada.
 
 
-
-
-
-
 *Explicación del Código Java:*
 
 1. main():
